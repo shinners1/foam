@@ -22,6 +22,13 @@
 - [[study-cppg]]  cppg 공부 시 봐야할 것
 
 
+http://www.kisa.or.kr
+한국인터진흥원->자료실
+
+http://www.privacy.go.kr
+개인정보보호 종합포털 -> 자료마당
+
+
 
 <!-- 
 
